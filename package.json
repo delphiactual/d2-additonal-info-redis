@@ -20,6 +20,7 @@
     "generate:ghost": "dotenv node built/src/generate-ghost-data.js",
     "generate:objective": "dotenv node built/src/generate-objective-to-triumph.js",
     "generate:bounty": "dotenv node built/src/generate-bounty-data.js",
+    "generate:mods": "dotenv node built/src/generate-mods-data.js",
     "generate:catalyst": "dotenv node built/src/generate-catalyst-data.js",
     "generate:crafting": "dotenv node built/src/generate-craftable-hashes.js",
     "generate:rewards": "dotenv node built/src/generate-powerful-rewards.js",

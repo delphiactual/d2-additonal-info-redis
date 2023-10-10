@@ -22,7 +22,7 @@ for (let season = 4; season <= D2CalculatedSeason; season++) {
 }
 
 interface ModSocketMetadata {
-  /** this allows us to sort mods chronologically for LO purposes */
+  /** The season a mod was released in. This allows us to sort mods chronologically for LO purposes. */
   season: number;
   /** we use these two to match with search filters */
   tag: string;
